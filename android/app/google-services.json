@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1056924883491",
+    "project_id": "stream-live-3d275",
+    "storage_bucket": "stream-live-3d275.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056924883491:android:2ea6d76088aa6a42162f96",
+        "android_client_info": {
+          "package_name": "com.alkmal.iptv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJavKIhh14BtHnpTSmkfjfN8ayNhmp7cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056924883491:android:4f8f6abe38210f72162f96",
+        "android_client_info": {
+          "package_name": "com.alkmal.stream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJavKIhh14BtHnpTSmkfjfN8ayNhmp7cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056924883491:android:0aaf86196751a1bb162f96",
+        "android_client_info": {
+          "package_name": "com.alkmal.tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJavKIhh14BtHnpTSmkfjfN8ayNhmp7cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
